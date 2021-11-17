@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**savannah-hayes/savannah-hayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Savannah, a self-motivated tech enthusiast and frontend web developer.
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 frontend developer <a href="https://github.com/savannah-hayes">@savannah-hayes</a> | 🌱 On a never-ending quest for knowledge | 💬 connect <a href="https://www.linkedin.com/in/savannah-hayes-128b0418a/">@savannah</a>
+</h4>
+<p  align="center">
+<a href="https://github.com/savannah-hayes">https://github.com/savannah-hayes</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="assets/stacks.png" alt="stacks"/>
+</h3>
