@@ -10,12 +10,3 @@ I'm Savannah, a self-motivated tech enthusiast and frontend web developer.
 <p  align="center">
 <a href="https://github.com/savannah-hayes">https://github.com/savannah-hayes</a>
 </p>
-
-<br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
-
-<h3 align="center">
-<img src="assets/stacks.png" alt="stacks"/>
-</h3>
